@@ -1,0 +1,7 @@
+The purpose of this assignment is to create a visually appealing version of the "scenario planning tool.xlsx" file.
+
+
+"scenario Planning Tool_Beautified.pdf" is the file which Peter created - you can take inspiration from this.
+
+
+Task: To achieve this, you should download the provided "scenario planning tool.xlsx" file and make the necessary modifications.
